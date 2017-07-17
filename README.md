@@ -1,2 +1,2 @@
 # Shrek-Furniture
-Our Shrek Furniture mod
+Our Shrek Furniture mod (expect good things)
