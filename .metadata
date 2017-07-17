@@ -1,7 +1,7 @@
 {
- "Turtle and Blue" : "Mod author name",
- "10/10 memes" : " Mod description",
- "Shrek Furniture : "Name displayed in game",
- "Shrek Furniture" : "file name",
- "version 0.0" : "1"
+  "author" : "Blue & Turtle",
+  "description" : " Our first mod (a memetastic one too)",
+  "friendlyName" : "Shrek Furniture Mod",
+  "name" : "firstMod",
+  "version" : "1"
 }
