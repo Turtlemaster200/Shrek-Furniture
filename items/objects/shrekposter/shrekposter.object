@@ -18,11 +18,12 @@
  "inventoryIcon" : "shrekposter.png",
  "orientations" : [
  {
- "dualImage" : "shrekposter.png",
+ "image" : "shrekposter.png:<color>",
  "imagePosition" : [-8, 0],
- "flipImages" : true,
+ "frames" : 1,
+ "animationCycle" : 0.5,
  "spaceScan" : 0.1,
- "anchors" : [ "bottom" ]
+ "anchors" : [ "bottom" ],
+ "collision" : "platform"
  }
  ]
-}
