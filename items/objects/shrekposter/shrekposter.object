@@ -17,7 +17,7 @@
  "inventoryIcon" : "shrekposter.png",
  "orientations" : [
  {
- "image" : "Shrek Poster.png:<color>",
+ "image" : "shrekposter.png:<color>",
  "imagePosition" : [-8, 0],
  "frames" : 1,
  "animationCycle" : 0.5,
