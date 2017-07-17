@@ -14,14 +14,15 @@
  "humanDescription" : "The mighty swamp lord Shrek himself.",
  "hylotlDescription" : "A very fine display from the Swamp Lord.",
  "novakidDescription" : "I dunno what this is supposed to mean, pardner. But it ain't lookin good.",
+
  "inventoryIcon" : "shrekposter.png",
  "orientations" : [
  {
- "image" : "shrekposter.png:<color>",
+ "dualImage" : "shrekposter.png",
  "imagePosition" : [-8, 0],
- "frames" : 1,
- "animationCycle" : 0.5,
- "anchors" : [ "background" ],
+ "flipImages" : true,
+ "spaceScan" : 0.1,
+ "anchors" : [ "bottom" ]
  }
  ]
 }
