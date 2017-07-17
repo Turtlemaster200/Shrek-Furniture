@@ -1,1 +1,29 @@
+{
+ "objectName" : "shrekstatue",
+ "colonyTags" : ["misc"],
+ "rarity" : "Rare",
+ "category" : "decorative",
+ "price" : 9999,
+ "description" : "A majestic statue of our king, observing his kingdom.",
+ "shortdescription" : "Ogre",
+ "race" : "generic",
+ "apexDescription" : "And I thought the Big Ape statues were bad.",
+ "avianDescription" : "Good statue. Very powerful.",
+ "floranDescription" : "Floran feelssss sssssscared",
+ "glitchDescription" : "Confused. This statue is of a strange monster.",
+ "humanDescription" : "Wow, it's so life-like. It's almost as if He was here with us...",
+ "hylotlDescription" : "A fine piece of art of the Lord.",
+ "novakidDescription" : "Jesus Christ on a motorbike, what in tarnation is that??",
 
+ "inventoryIcon" : "shrekstatue.png",
+ "orientations" : [
+ {
+ "image" : "shrekstatue.png:<color>",
+ "imagePosition" : [-8, 0],
+ "frames" : 1,
+ "animationCycle" : 0.5,
+ "spaceScan" : 0.1,
+ "anchors" : [ "bottom" ],
+ "collision" : "platform"
+ }
+ ]
