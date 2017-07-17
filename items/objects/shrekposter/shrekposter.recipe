@@ -1,0 +1,9 @@
+{
+ "input" : [
+ { "item" : "money",
+"count" : 9999 }
+ ],
+ "output" : { "item" :
+"shrekposter", "count" : 1 },
+ "groups" : [ "plain" ]
+}
