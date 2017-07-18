@@ -1,7 +1,7 @@
 {
   "objectName" : "shrektable",
-  "colonyTags" : ["commerce"],
-  "printable" : false,
+  "colonyTags" : ["odd"],
+  "printable" : true,
   "rarity" : "Common",
   "description" : "What Shrek uses to eat donkey meat.",
   "shortdescription" : "Shrek's Table",
@@ -17,7 +17,7 @@
   "hylotlDescription" : "A table, very swamplike. Possibly used by the Great OgreLord himself.",
   "novakidDescription" : "Hootin' patootin' gas balls! This stinks worse than a drunken novakid on a monday mornin'!",
 
-  "inventoryIcon" : "shrektable.png",
+  "inventoryIcon" : "shrektableicon.png",
   "orientations" : [
     {
       "dualImage" : "shrektable.png:<color>",
