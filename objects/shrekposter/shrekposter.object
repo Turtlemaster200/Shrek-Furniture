@@ -17,7 +17,7 @@
   "hylotlDescription" : "A very fine display from the Swamp Lord.",
   "novakidDescription" : "I dunno what this is supposed to mean, pardner. But it ain't lookin good.",
 
-  "inventoryIcon" : "shrekposter.png",
+  "inventoryIcon" : "shrekpostericon.png",
   "orientations" : [
     {
       "image" : "shrekposter.png:<color>",
