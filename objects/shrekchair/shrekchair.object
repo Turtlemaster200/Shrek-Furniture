@@ -1,1 +1,38 @@
+{
+  "objectName" : "shrekchair",
+  "colonyTags" : ["odd"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An dirty swamp chair.",
+  "shortdescription" : "Shrek's Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 10,
+
+  "apexDescription" : "Huh. Uhuh. Yeahhhh, I think i will avoid sitting on that...",
+  "avianDescription" : "Sniffing this must be pleasant.",
+  "floranDescription" : "Sssmeellly chair.",
+  "glitchDescription" : "Disgusted. Smell sensors detect filth.",
+  "humanDescription" : "To think, perhaps the OgreLord himself sat on this!.",
+  "hylotlDescription" : "A pleasant smelling chair, used by the OgreLord. I wonder how many different ogres have sat on this with their cushy bottoms.",
+  "novakidDescription" : "Nuh uh. Nope.",
+
+  "inventoryIcon" : "shrekchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "shrekchair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}
 
