@@ -46,7 +46,7 @@
     "/scripts/npcToyObject.lua"
   ],
 
-  "sounds" : [ "/sfx/welcometoduloc.ogg" ],
+  "sounds" : [ "/sfx/objects/welcometoduloc.ogg" ],
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
@@ -65,3 +65,4 @@
     "randomStandXRange" : [-8, 8]
   }
 }
+
