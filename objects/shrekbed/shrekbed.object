@@ -1,1 +1,47 @@
 
+{
+  "objectName" : "shrekbed",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A uncomfortable bed. Smells of sweat and fart.",
+  "shortdescription" : "Shrek's Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 9999,
+
+  "apexDescription" : "A nasty bed. Disgusting.",
+  "avianDescription" : "Rotting wood and a smell mattress.",
+  "floranDescription" : "Floran rarely ssee sssuch nassty thing.",
+  "glitchDescription" : "Disgusted. This bed has low health standards.",
+  "humanDescription" : "What could've slept in this to make it smell this bad?",
+  "hylotlDescription" : "The nastiest bed conceivable.",
+  "novakidDescription" : "In this bed, the hay hits back..",
+
+  "inventoryIcon" : "shreksbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "shreksbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/generic/woodenbed/woodenbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}
