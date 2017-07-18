@@ -48,7 +48,7 @@
     "/scripts/npcToyObject.lua"
   ],
 
-  "sounds" : [ "/sfx/objects/honky_riff1.ogg" ],
+  "sounds" : [ "/sfx/welcometoduloc.ogg" ],
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
