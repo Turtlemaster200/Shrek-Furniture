@@ -1,25 +1,25 @@
 {
-  "objectName" : "saloonpiano",
-  "colonyTags" : ["novakid","novakidvillage","saloon","musical"],
+  "objectName" : "welcometoduloc",
+  "colonyTags" : ["odd"],
   "rarity" : "Common",
   "category" : "decorative",
-  "description" : "It's a piano fit for a saloon!",
-  "shortdescription" : "Saloon Piano",
-  "race" : "novakid",
-  "price" : 160,
+  "description" : "It's a booth fit for a castle!",
+  "shortdescription" : "Duloc Welcome Booth",
+  "race" : "generic",
+  "price" : 666,
 
-  "apexDescription" : "All Apex must learn to play. However, only sanctioned music may be performed. There's a microphone hidden in every piano.",
-  "avianDescription" : "The buttons produce pleasant sounds.",
-  "floranDescription" : "Floran make musssic from ssskin and bone, master of drum. Not sssilly sssound machine.",
-  "glitchDescription" : "Smug. The mathematical principles behind this machine are trivially simple.",
-  "humanDescription" : "A piano... I can play Chopsticks!",
-  "hylotlDescription" : "Ah, music... It has the power to light up even our darkest hours.",
-  "novakidDescription":  "A piano fit for the ol' honky-tonk.",
+  "apexDescription" : "Nice little jingle.",
+  "avianDescription" : "Duloc Is, Duloc Is, Duloc is a perfect plaaace!",
+  "floranDescription" : "Sssss.",
+  "glitchDescription" : "Creeped out. Duloc does not seem like a happy place.",
+  "humanDescription" : "Duloc seems like a nice place.",
+  "hylotlDescription" : "Ahh, Duloc. Good times, good times.",
+  "novakidDescription":  "Now hold on here pardner! Duloc? All I see is a retextured piano from the saloon!",
 
-  "inventoryIcon" : "saloonpianoicon.png",
+  "inventoryIcon" : "welcometodulocicon.png",
   "orientations" : [
     {
-      "image" : "saloonpiano.png:<color>",
+      "image" : "welcometoduloc.png:<color>",
       "imagePosition" : [-20, 0],
       "direction" : "left",
       "flipImages" : true,
@@ -30,14 +30,12 @@
       "collisionSpaces" : [ [-1, 3], [0, 3], [1, 3] ]
     },
     {
-      "image" : "saloonpiano.png:<color>",
+      "image" : "welcometoduloc.png:<color>",
       "imagePosition" : [-16, 0],
       "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
-      "collision" : "platform",
-      "collisionSpaces" : [ [-1, 3], [0, 3], [1, 3] ]
     }
   ],
 
