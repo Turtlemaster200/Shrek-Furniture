@@ -1,15 +1,15 @@
 {
   "objectName" : "shrekposter",
   "colonyTags" : ["odd"],
-  "printable" : true,
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 360,
-  
+
   "description" : "Praise the swamp king!",
   "shortdescription" : "Ogre Lord Portrait",
   "race" : "generic",
-  "apexDescription" : "What kind of monster would make this monstrosity?",
+
+  "apexDescription" : "What kind of monster would make this monstrous monstrosity?",
   "avianDescription" : "Fascinating overlord. Better than Kluex.",
   "floranDescription" : "Shrekkkssss swamppp",
   "glitchDescription" : "Confused. Why is there a green face of a monster hanged up here.",
@@ -19,14 +19,15 @@
 
   "inventoryIcon" : "shrekposter.png",
   "orientations" : [
-  {
-  "image" : "shrekposter.png:<color>",
-  "imagePosition" : [-8, 0],
-  "frames" : 1,
-  "animationCycle" : 1.0,
-  "spaceScan" : 0.1,
-  "anchors" : [ "background" ],
+    {
+      "image" : "shrekposter.png:<color>",
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
 
- }
- ]
-} 
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
