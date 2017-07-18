@@ -9,14 +9,14 @@
   "category" : "furniture",
   "price" : 420,
 
-  "apexDescription" : "Hm. Smells like last week's banana cream pie.",
+  "apexDescription" : "Hm. Looks like last week's banana cream pie.",
   "avianDescription" : "Quite a lovely little table, don't you think?.",
-  "floranDescription" : "Sssimple ssswammmppp table.",
-  "glitchDescription" : "Disgusted. A very dirty table.",
+  "floranDescription" : "Sssimple sswampp table with tasssty food.",
+  "glitchDescription" : "Disgusted. A very dirty table, with dead organisms on top.",
   "humanDescription" : "Not much to say about this table, other than it's many hygiene issues.",
-  "hylotlDescription" : "A table, very swamplike. Possibly used by the Great OgreLord himself.",
-  "novakidDescription" : "Hootin' patootin' gas balls! This stinks worse than a drunken novakid on a monday mornin'!",
-
+  "hylotlDescription" : "A table, very swamplike. Possibly used by the Great OgreLord himself. Probably his last meal is lying on the table.",
+  "novakidDescription" : "Hootin' patootin' gas balls! What is that stuff?!",
+  
   "inventoryIcon" : "shrektableicon.png",
   "orientations" : [
     {
