@@ -1,0 +1,35 @@
+{
+  "objectName" : "swamptable",
+  "colonyTags" : ["commerce"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "What shrek uses to eat donkey meat.",
+  "shortdescription" : "Swamp Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 420,
+
+  "apexDescription" : "Hm. Smells like last week's banana cream pie.",
+  "avianDescription" : "Quite a lovely little table, don't you think?.",
+  "floranDescription" : "Sssimple ssswammmppp table.",
+  "glitchDescription" : "Disgusted. A very dirty table.",
+  "humanDescription" : "Not much to say about this table, other than it's many hygiene issues.",
+  "hylotlDescription" : "A table, very swamplike. Possibly used by the Great OgreLord himself.",
+  "novakidDescription" : "Hootin' patootin' gas balls!.",
+
+  "inventoryIcon" : "shrektable.png",
+  "orientations" : [
+    {
+      "dualImage" : "shrektable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}
