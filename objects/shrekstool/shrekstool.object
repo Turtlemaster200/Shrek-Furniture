@@ -1,0 +1,38 @@
+{
+  "objectName" : "shreksstool",
+  "colonyTags" : ["odd"],
+  "rarity" : "Common",
+  "description" : "A simple wooden stool.",
+  "shortdescription" : "Shrek's Stool",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 160,
+
+  "apexDescription" : "Shrek's moldy old swamp stool.",
+  "avianDescription" : "A disgustingly unclean stool.",
+  "floranDescription" : "Sssseat for Great Green One.",
+  "glitchDescription" : "Curious. I wonder what great being used this stool to render it in such condition.",
+  "humanDescription" : "I wouldn't want my feet on that thing.",
+  "hylotlDescription" : "I can't identify what race would ever use this.",
+  "novakidDescription" : "A gross lookin' stool.",
+
+  "inventoryIcon" : "shreksstoolicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "shreksstool.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 20]
+
+}
