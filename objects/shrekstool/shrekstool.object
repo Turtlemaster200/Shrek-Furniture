@@ -16,10 +16,10 @@
   "hylotlDescription" : "I can't identify what race would ever use this.",
   "novakidDescription" : "A gross lookin' stool.",
 
-  "inventoryIcon" : "shreksstoolicon.png",
+  "inventoryIcon" : "shrekstoolicon.png",
   "orientations" : [
     {
-      "dualImage" : "shreksstool.png:<color>",
+      "dualImage" : "shrekstool.png:<color>",
 
       "imagePosition" : [-8, 0],
       "frames" : 1,
