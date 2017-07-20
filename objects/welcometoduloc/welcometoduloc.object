@@ -1,12 +1,12 @@
 {
   "objectName" : "welcometoduloc",
-  "colonyTags" : ["odd"],
+  "colonyTags" : ["generic"],
   "rarity" : "Common",
   "category" : "decorative",
   "description" : "It's a booth fit for a castle!",
   "shortdescription" : "Duloc Welcome Booth",
   "race" : "generic",
-  "price" : 666,
+  "price" : 360,
 
   "apexDescription" : "Nice little jingle.",
   "avianDescription" : "Duloc Is, Duloc Is, Duloc is a perfect plaaace!",
@@ -36,6 +36,8 @@
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1, 3], [0, 3], [1, 3] ]
     }
   ],
 
@@ -46,7 +48,7 @@
     "/scripts/npcToyObject.lua"
   ],
 
-  "sounds" : [ "/sfx/objects/honky_riff1.ogg" ],
+  "sounds" : [ "/objects/welcometoduloc/welcometoduloc.ogg" ],
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
@@ -65,4 +67,3 @@
     "randomStandXRange" : [-8, 8]
   }
 }
-
