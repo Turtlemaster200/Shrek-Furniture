@@ -1,0 +1,48 @@
+{
+  "objectName" : "oven1",
+  "colonyTags" : ["odd","cooking"],
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 100,
+  "description" : "Looks like something big and green used this to cook up some onions.",
+  "shortdescription" : "Shrek's Oven",
+  "race" : "generic",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  Shrek's Oven",
+        "subtitle" : "  I don't want to put my food in there.."
+      }
+    }
+  },
+
+  "apexDescription" : "Whatever used this thing, it smells terrible.",
+  "avianDescription" : "I wouldn't want my food cooking in that.",
+  "floranDescription" : "Floran sssmelss onion.",
+  "glitchDescription" : "Disgusted. This oven is clearly in disrepair.",
+  "humanDescription" : "God, what is that green stain?",
+  "hylotlDescription" : "Perfect for contaminating your kitchen with whatever that stain is.",
+  "novakidDescription" : "What in tarnation happened to this piece 'o crap?",
+
+  "statusEffects" : [ ],
+
+  "inventoryIcon" : "shreksovenicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "shreksoven.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
